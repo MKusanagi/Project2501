@@ -1,8 +1,12 @@
-## Welcome to GitHub Pages
+# THE GRAND PENTAGON MIND READING VACCINATION THEORY
 
-You can use the [editor on GitHub](https://github.com/MKusanagi/Project2501/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+● **HYPOTHESIS:** The COVID vaccines (distributed by Western companies) contain nanotechnology at least in part developed by the Pentagon (DARPA)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+● **PREDICTION 1:** After vaccination the brain of the vaccinated subject is able to connect to a software application and electronic devices.
+
+● **PREDICTION 2:** After vaccination the software and electronic devices are able to decode language signals from brain of the vaccinated subject 
+
+Let's take a look at some empirical evidence currently available that support the hypothesis and the predictions:
 
 ### Markdown
 
